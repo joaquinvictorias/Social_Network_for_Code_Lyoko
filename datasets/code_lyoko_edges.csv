@@ -1,0 +1,112 @@
+source,target,weight
+ulrich,yumi,62
+odd,yumi,60
+jeremie,yumi,50
+aelita,yumi,33
+odd,ulrich,87
+jeremie,ulrich,91
+aelita,ulrich,54
+jeremie,odd,93
+aelita,odd,53
+aelita,jeremie,111
+rovvy,yukiko,3
+roger crane,yukiko,2
+jeremie,x.a.n.a.,25
+odd,x.a.n.a.,4
+ulrich,x.a.n.a.,5
+erik,jeremie,2
+gardenia,mark,1
+erik,gardenia,5
+erik,erik’s mother,2
+erik,freno,1
+freno,gardenia,2
+erik,x.a.n.a.,3
+erik,mark,1
+hertz,ulrich,1
+hertz,jeremie,3
+delmas,jeremie,12
+delmas,paul,2
+jeremie,paul,3
+kiwi,ulrich,10
+kiwi,odd,20
+jeremie,kiwi,4
+aelita,kiwi,3
+aelita,x.a.n.a.,14
+delmas,yumi,1
+delmas,odd,6
+delmas,ulrich,5
+aelita,delmas,6
+aelita,bullenberg,1
+bullenberg,fernando,3
+bullenberg,matt,4
+bullenberg,margie,4
+kiwi,yumi,2
+aelita,franz hopper,20
+jennifer,suzy,1
+eva,jennifer,9
+gardenia,suzy,1
+eva,suzy,3
+eva,gardenia,4
+eva,jeremie,6
+aelita,eva,1
+ulrich,william,10
+eva,ulrich,2
+delmas,gardenia,1
+eva,freno,2
+bumba,gardenia,1
+jeremie,william,6
+william,yumi,16
+odd,philippe,6
+jeremie,philippe,21
+franz hopper,philippe,6
+jeremie,marie,5
+marie,odd,2
+marie,philippe,4
+eva,odd,2
+eva,x.a.n.a.,7
+philippe,ulrich,4
+françois,laurette,3
+françois,philippe,8
+laurette,philippe,4
+françois,jeremie,3
+laurette,odd,1
+franz hopper,françois,2
+aelita,philippe,2
+franz hopper,jeremie,10
+philippe,yumi,3
+franz hopper,odd,6
+franz hopper,ulrich,2
+jeremie,laurette,1
+eva,roger crane,19
+robertson,roger crane,2
+eva,robertson,3
+jeremie,tatillon,5
+delmas,tatillon,1
+tatillon,yumi,2
+roger crane,tatillon,7
+odd,tatillon,1
+roger crane,yumi,9
+jeremie,roger crane,6
+roger crane,ulrich,5
+odd,roger crane,4
+delmas,roger crane,1
+rené crane,roger crane,8
+odd,rené crane,1
+roger crane,tom,1
+rené crane,ulrich,1
+rené crane,yumi,5
+franz hopper,x.a.n.a.,5
+x.a.n.a.,yumi,3
+aelita,anthea,1
+odd,william,13
+franz hopper,william,1
+william,x.a.n.a.,4
+jeremie,rené crane,1
+anthea,franz hopper,5
+eva,franz hopper,1
+anthea,jeremie,1
+anthea,eva,2
+fumet,jeremie,1
+fumet,yumi,1
+fumet,odd,1
+bullenberg,eva,4
